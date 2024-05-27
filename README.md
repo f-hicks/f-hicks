@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Finlay's GitHub stats](https://github-readme-stats-ten-sigma-37.vercel.app/api?username=f-hicks&theme=github_dark)](https://github.com/f-hicks/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-sigma-37.vercel.app/api/top-langs/?username=f-hicks&theme=github_dark)](https://github.com/f-hicks/github-readme-stats)
